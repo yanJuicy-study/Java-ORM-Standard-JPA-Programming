@@ -138,7 +138,7 @@ SQL 문법과 유사하여 `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `JOI
 
 목록 조회 예제에서 `select m from Member` 가 바로 JPQL 이다.
 Member는 엔티티를 말한다. (테이블이 아니다.)
-한마디로 JPQL은 데이터베이ㅅ 테이블에 대해 전혀 알지 못한다.
+한마디로 JPQL은 데이터베이스 테이블에 대해 전혀 알지 못한다.
 
 JPQL을 사용하려면 먼저 `em.createQuery("JPQL", 반환 타입)` 메소드를 실행해 쿼리 객체를 생성한 후
 쿼리 객체의 `getResuletList()` 메소드를 호출하면 된다.
