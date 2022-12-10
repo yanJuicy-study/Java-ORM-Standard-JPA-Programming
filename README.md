@@ -16,3 +16,12 @@
 - 같이 공부하는 사람의 동기부여를 위해 스터디를 2회 불참 시 강퇴를 생각하고 있습니다.
 - 프로젝트 주간에도 스터디는 계속 하려고 합니다.
 - 1주일에 1챕터씩 진행하면 진도가 안 끝나서 항해가 끝나고도 스터디를 계속할 수 있습니다.
+
+---
+
+## 발표자료 
+| Chapter | 발표자 | 발표 자료 | 질문
+| --- | --- | --- | --- |
+| 1장 JPA 소개 | 서보성 | [발표 자료](./1장/README.md)   | [질문 링크](https://github.com/yanJuicy-study/Java-ORM-Standard-JPA-Programming/issues/1)
+| 2장 JPA 시작 | 김형준 | [발표 자료](./2장/README.md)   | [질문 링크](https://github.com/yanJuicy-study/Java-ORM-Standard-JPA-Programming/issues/2)
+
