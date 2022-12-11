@@ -19,6 +19,14 @@
 
 ---
 
+**참여자**
+
+| [<img src="https://avatars.githubusercontent.com/u/43159295?v=4" width="100">](https://github.com/yanJuicy) | [<img src="https://avatars.githubusercontent.com/u/91590391?v=4" width="100">](https://github.com/hjun0917) | [<img src="https://avatars.githubusercontent.com/u/28504937?v=4" width="100">](https://github.com/tjvm0877) | [<img src="https://avatars.githubusercontent.com/u/114788315?v=4" width="100">](https://github.com/Jaekyeong1) | [<img src="https://avatars.githubusercontent.com/u/110980231?v=4" width="100">](https://github.com/JeongO41) | [<img src="https://avatars.githubusercontent.com/u/110963294?v=4" width="100">](https://github.com/suhjaesuk) | [<img src="https://avatars.githubusercontent.com/u/118160987?v=4" width="100">](https://github.com/teabear12) |
+| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: | :---------------------------------------: | :---------------------------------------: | :---------------------------------------: | 
+| [이한주](https://github.com/yanJuicy) | [김형준](https://github.com/hjun0917) | [김재현](https://github.com/tjvm0877) | [전재경](https://github.com/Jaekyeong1) | [정진](https://github.com/JeongO41) | [서재석](https://github.com/suhjaesuk) | [서보성](https://github.com/teabear12) |
+
+---
+
 ## 발표자료 
 | Chapter | 발표자 | 발표 자료 | 질문
 | --- | --- | --- | --- |
