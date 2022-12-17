@@ -32,4 +32,5 @@
 | --- | --- | --- | --- |
 | 1장 JPA 소개 | 서보성 | [발표 자료](./1장/README.md)   | [질문 링크](https://github.com/yanJuicy-study/Java-ORM-Standard-JPA-Programming/issues/1)
 | 2장 JPA 시작 | 김형준 | [발표 자료](./2장/README.md)   | [질문 링크](https://github.com/yanJuicy-study/Java-ORM-Standard-JPA-Programming/issues/2)
+| 3장 영속성 관리 | 김형준 | [발표 자료](./3장/README.md)   | [질문 링크](https://github.com/yanJuicy-study/Java-ORM-Standard-JPA-Programming/issues/3)
 
